@@ -1,1 +1,9 @@
+#WEEK 1 ASSESSMENT
 
+##OBJECTIVES
+-To reproduce laps
+-Learning
+
+## TOOLS USED
+
+### STEP-BY-STEP-PROCESS
