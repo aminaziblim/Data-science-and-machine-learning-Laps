@@ -1,6 +1,6 @@
-#WEEK 1 ASSESSMENT
+# WEEK 1 ASSESSMENT
 
-##OBJECTIVES
+## OBJECTIVES
 -To reproduce laps
 -Learning
 
