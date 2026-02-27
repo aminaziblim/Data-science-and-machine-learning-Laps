@@ -29,7 +29,10 @@
 - Logical operators help combine multiple conditions.
 - Control flow allows programs to make decisions.
 - Indentation is very important in Python.
-
+## MARKDOWN
+- Current Progress
+- Week 3
+– Strings, Control Flow & Logical Operators
 
 
 
