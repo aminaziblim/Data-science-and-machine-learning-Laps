@@ -15,3 +15,21 @@
 - Practiced arithmetic operations (+, -, *, /, %, //, **).
 - Implemented comparison operators (==, !=, >, <).
 - Applied logical operators (and, or, not).
+## COMANDS USED
+- name_= "Amina"
+- print(name_.upper())
+- print(name_.lower())
+- (x = 10)
+-( y = 3) 
+- print(x + y)
+- print(x - y)
+- print(x * y)
+- print(x / y)
+## Key Observations / Lessons Learned
+- Logical operators help combine multiple conditions.
+- Control flow allows programs to make decisions.
+- Indentation is very important in Python.
+
+
+
+
