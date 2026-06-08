@@ -10,11 +10,19 @@
 ## Tools & Technologies Used
 - PostgreSQL (SQL Engine)
 - SQL (Joins, CTEs, Window Functions, Aggregations)
-- GitHub (Version Control)
-- Data Modeling (Relational Schema Design)
-  
-## Methodology
+- GitHub 
 
+## Aggregate Functions
+- SUM()
+- COUNT()
+- AVG()
+- ROUND()
+
+## Window Functions
+- DENSE_RANK()
+- LAG()
+- 
+## Methodology
 - Data Understanding & Cleaning
 - Verified relationships between tables
 - Ensured referential integrity using keys (city_id, customer_id, product_id)
@@ -24,3 +32,11 @@
 - customers → bridge between city and sales
 - products → product dimension
 - sales → fact table (transactions)
+
+Author
+
+Amina Ziblim
+
+Data Analyst | SQL Developer | Business Intelligence Enthusiast
+
+This project demonstrates advanced SQL skills including joins, CTEs, window functions, business analysis, and market expansion strategy.
