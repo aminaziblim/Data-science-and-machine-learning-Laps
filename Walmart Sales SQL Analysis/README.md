@@ -81,3 +81,12 @@ Amina Ziblim
 
 Data Analyst | SQL Enthusiast | Business Intelligence Learner
 
+
+├README.md
+
+├─ dataset/
+
+│ └── walmart_sales_data.sql
+
+├── screenshots/
+
